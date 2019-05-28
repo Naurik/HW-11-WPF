@@ -1,0 +1,15 @@
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\bin\Debug\AnimationTransformationLesson.exe.config
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\bin\Debug\AnimationTransformationLesson.exe
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\bin\Debug\AnimationTransformationLesson.pdb
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.csprojAssemblyReference.cache
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\MainWindow.g.cs
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\App.g.cs
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson_MarkupCompile.cache
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson_MarkupCompile.lref
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\MainWindow.baml
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.g.resources
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.Properties.Resources.resources
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.csproj.GenerateResource.cache
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.csproj.CoreCompileInputs.cache
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.exe
+C:\Users\МашимовН.CORP\source\repos\AnimationTransformationLesson\AnimationTransformationLesson\obj\Debug\AnimationTransformationLesson.pdb
